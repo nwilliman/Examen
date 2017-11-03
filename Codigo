@@ -28,6 +28,10 @@
         		processData:false,
 				success: function(resultado){
 					$("#respuesta").html(resultado);
+
+
+
+					
 				}
 			})
 		});
